@@ -1,0 +1,12 @@
+/home/thalassa/dwhitney/catkin_ws/build/CMakeFiles/clean_test_results.dir
+/home/thalassa/dwhitney/catkin_ws/build/CMakeFiles/doxygen.dir
+/home/thalassa/dwhitney/catkin_ws/build/gtest/CMakeFiles/gtest.dir
+/home/thalassa/dwhitney/catkin_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_arduino/CMakeFiles/rosserial_arduino_gencpp.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_arduino/CMakeFiles/rosserial_arduino_genlisp.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_arduino/CMakeFiles/rosserial_arduino_genpy.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_msgs/CMakeFiles/rosserial_msgs_gencpp.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_msgs/CMakeFiles/rosserial_msgs_genlisp.dir
+/home/thalassa/dwhitney/catkin_ws/build/rosserial/rosserial_msgs/CMakeFiles/rosserial_msgs_genpy.dir
+/home/thalassa/dwhitney/catkin_ws/build/CMakeFiles/run_tests.dir
+/home/thalassa/dwhitney/catkin_ws/build/CMakeFiles/tests.dir

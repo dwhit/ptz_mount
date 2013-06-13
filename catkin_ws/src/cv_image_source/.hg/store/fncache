@@ -1,0 +1,11 @@
+data/src/image_source.cpp.i
+data/readme.txt.i
+data/launch/camera1.launch.i
+data/manifest.xml.i
+data/launch/camera.launch.i
+data/src/crop.cpp.i
+data/srv/EndOfStream.srv.i
+data/mainpage.dox.i
+data/Makefile.i
+data/launch/file.launch.i
+data/CMakeLists.txt.i

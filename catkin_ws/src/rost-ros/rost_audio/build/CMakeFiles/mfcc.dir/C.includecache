@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_audio/libmfcc/libmfcc.c
+math.h
+-
+libmfcc.h
+/home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_audio/libmfcc/libmfcc.h
+
+/home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_audio/libmfcc/libmfcc.h
+

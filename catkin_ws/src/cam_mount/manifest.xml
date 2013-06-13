@@ -1,0 +1,18 @@
+<package>
+  <description brief="cam_mount">
+
+     cam_mount
+
+  </description>
+  <author>David Whitney</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cam_mount</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="rost_common"/>
+
+</package>
+
+

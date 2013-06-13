@@ -1,0 +1,10 @@
+nh.param<int>("cameraid", cameraid,-1);
+nh.param<int>("width", img_width,0);
+nh.param<int>("height", img_height,0);
+nh.param<int>("rate", rate ,10);
+nh.param<int>("subsample", subsample ,1);
+nh.param<double>("scale", scale ,1.0);
+nh.param<string>("filename", filename,"");
+nh.param<string>("topic", topic_name,"/image");
+nh.param<bool>("loop",loop,true);
+nh.param<string>("encoding",encoding,"bgr8");

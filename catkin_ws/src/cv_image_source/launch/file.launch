@@ -1,0 +1,23 @@
+<launch>
+  <arg name="file"/>
+  <arg name="scale" default="1.0"/>
+  <arg name="rate" default="5"/>
+  <arg name="loop" default="false"/>
+  <arg name="polling" default="false"/>
+  <arg name="vbegin" default="0"/> 
+  <arg name="vend" default="-1.0"/>	
+  <arg name="subsample" default="1"/>
+  <arg name="quit_on_eos" default="false"/>
+
+  <node pkg="cv_image_source" type="image_source" name="image_source" required="true">
+    <param name="filename" type="string" value="$(arg file)"/>
+    <param name="rate" type="int" value="$(arg rate)"/>
+    <param name="subsample" type="int" value="$(arg subsample)"/>
+    <param name="scale" value="$(arg scale)"/>
+    <param name="begin" value="$(arg vbegin)"/>
+    <param name="end" value="$(arg vend)"/>
+    <param name="loop" value="$(arg loop)"/>
+    <param name="polling" value="$(arg polling)"/>
+    <param name="quit_on_eos" value="$(arg quit_on_eos)"/>
+  </node>  
+</launch>

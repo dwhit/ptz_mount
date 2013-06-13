@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -pthread -std=c++0x -D_GLIBCXX_USE_NANOSLEEP -O2 -g    CMakeFiles/test_rost.dir/src/cli/test_rost.cpp.o  -o ../bin/test_rost -rdynamic -L/opt/ros/groovy/lib 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libgtest.so -o /home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_curosity/lib/libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o -L/home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_curosity/build/gtest/src -lpthread -Wl,-rpath,/home/thalassa/dwhitney/catkin_ws/src/rost-ros/rost_curosity/build/gtest/src 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thalassa/dwhitney/catkin_ws/src/cv_image_source/build/devel/setup.sh
